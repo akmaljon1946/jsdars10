@@ -1,0 +1,16 @@
+.demo{ 
+  width: 400px;
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+  background-color: gainsboro;
+  color: #3e6de6;
+ 
+}
+
+.kurs{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+  background-color: rgb(245, 235, 61);
+  color: #131310;
+}
